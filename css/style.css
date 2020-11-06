@@ -1884,5 +1884,23 @@ h3.sub-w3ls-headf {
 .mycard h3{
 	font-size: 1.0em;
 }
+.bg-primary{
+	background-color: #74d2e7 !important; 
+}
+.btn-warning {
+    color: #fff;
+    background-color:#ec1c24 !important;
+    border-color:#ec1c24 !important;
+}
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #74d2e7 !important;
+    border-color: #74d2e7 !important;
+}
+.text{
+    color: #74d2e7;
+}
 
 /* blog */
